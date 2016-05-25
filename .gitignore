@@ -1,0 +1,4 @@
+build*/
+*.user
+/test/Makefile
+/example/Makefile
